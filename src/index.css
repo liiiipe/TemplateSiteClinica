@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(214, 249, 250);
+  color: rgb(55, 121, 99);
+  font-family: 'Quicksand', sans-serif;
+}
+.nav-wrapper a:hover{
+  color: rgb(208, 255, 255);
+}
+
+.icones {
+  float: left;
+}
+.imgconsulta{
+  width: 33%;
+  height: 100%;
+  display: inline;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 7px;
+  margin-right: auto;
+  align-content: center;
+}
+
+.iconehome, .icon-block{
+  color: rgb(55, 121, 99);
+}
+
+.collapsible-header span{
+  margin-left: auto;
+  margin-right: auto;
+}
+.area1, .area2{
+  margin-left: 10%;
+  margin-right: 10%;
+}
